@@ -2,6 +2,6 @@ clone this project.
 
 npm install
 
-npm start .
+npm start 
 
 Done!!
